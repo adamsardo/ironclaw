@@ -10,6 +10,7 @@
 # Sidecar tool data
 .sidecar/
 .todos/
+.worktrees/
 
 target/
 
@@ -18,4 +19,3 @@ bench-results/
 
 # WASM build artifacts (loaded from disk, not bundled)
 *.wasm
-
