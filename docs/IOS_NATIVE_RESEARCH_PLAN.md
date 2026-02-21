@@ -1,4 +1,4 @@
-# Native iOS Strategy for iIncore (IronClaw) — Research & Execution Plan
+# Native iOS Strategy for iRonClaw (IronClaw) — Research & Execution Plan
 
 ## Scope and assumptions
 
